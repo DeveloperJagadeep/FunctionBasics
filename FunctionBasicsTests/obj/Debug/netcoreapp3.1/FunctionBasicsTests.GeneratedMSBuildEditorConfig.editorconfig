@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FunctionBasicsTests
+build_property.ProjectDir = P:\.Net Projects\Azure\Azure Functions\FunctionBasics\FunctionBasicsTests\
